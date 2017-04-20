@@ -1,4 +1,7 @@
-# test coverage for  [rss-watcher (v1.3.0)](https://github.com/nikezono/node-rss-watcher)  [![npm package](https://img.shields.io/npm/v/npmtest-rss-watcher.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rss-watcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rss-watcher.svg)](https://travis-ci.org/npmtest/node-npmtest-rss-watcher)
+# npmtest-rss-watcher
+
+#### basic test coverage for  [rss-watcher (v1.3.0)](https://github.com/nikezono/node-rss-watcher)  [![npm package](https://img.shields.io/npm/v/npmtest-rss-watcher.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-rss-watcher) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-rss-watcher.svg)](https://travis-ci.org/npmtest/node-npmtest-rss-watcher)
+
 #### RSS reader/watcher
 
 [![NPM](https://nodei.co/npm/rss-watcher.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rss-watcher)
